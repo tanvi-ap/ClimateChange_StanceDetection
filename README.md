@@ -1,1 +1,1 @@
-# ClimateChange_StanceDetection
+# Stance detection of Climate Change related Tweets
